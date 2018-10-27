@@ -1,0 +1,42 @@
+{
+     "billableUser": true,
+
+     "billingAddress": {
+
+         "city": "Norfolk",
+
+         "state": "VA",
+
+         "streetAddress": "5800 Northampton Blvd",
+
+         "zipCode": 23320
+
+     },
+
+     "subscriberId": "1234567890",
+     "plans": [
+
+         {
+
+             "paymentAmount": 150,
+
+             "planId": "myPlan1",
+
+             "planName": "Silver"
+
+         },
+
+         {
+
+             "paymentAmount": 220,
+
+             "planId": "myPlan2",
+
+             "planName": "Gold"
+
+         }
+
+     ]
+
+ }
+ 
